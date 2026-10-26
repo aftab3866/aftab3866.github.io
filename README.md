@@ -70,9 +70,9 @@ My research publications cover bioinformatics, multi-omics integration, systems 
 | Metric | Achievement |
 |---|---:|
 | Journal Articles | 42+ |
-| Citations | 770+ |
+| Citations | 775+ |
 | h-index | 15 |
-| i10-index | 21 |
+| i10-index | 22 |
 | Years in Bioinformatics | 7+ |
 | Books | 1 |
 | Book Chapters | 3 |
