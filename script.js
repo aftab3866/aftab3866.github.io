@@ -284,12 +284,12 @@ function renderRecent() {
    Put your photos in the "gallery" folder and list them here.
    Add or remove lines freely; captions are optional. */
 const GALLERY = [
-  { src: 'gallery/1.png', caption: 'My Mentor & Research Team' },
-  { src: 'gallery/2.png', caption: 'Team at work' },
-  { src: 'gallery/3.png', caption: 'Lab equipment' },
+  { src: 'gallery/1.png', caption: 'Lab members' },
+  { src: 'gallery/2.png', caption: 'Research Highlights' },
+  { src: 'gallery/3.png', caption: 'Current Teaching Assignments' },
   { src: 'gallery/lab4.png', caption: 'Group meeting' },
   { src: 'gallery/lab5.png', caption: 'Conference / event' },
-  { src: 'gallery/lab6.png', caption: 'Lab members' }
+  { src: 'gallery/lab6.png', caption: 'Others' }
 ];
 let lbIndex = 0;
 function renderGallery() {
